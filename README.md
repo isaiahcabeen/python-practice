@@ -4,9 +4,10 @@ A collection of beginner and intermediate Python projects.
 ---
 
 ## 📂 **Projects Included**
-| Project Name           | Description                                  |
-|------------------------|----------------------------------------------|
-| Number Guessing Game   | A simple game where the user guesses a number. |
+| Project Name           | Description                                   |
+|------------------------|---------------------------------------------- |
+| Number Guessing Game   | A simple game where the user guesses a number |
+| Calculator             | A really basic calculator                     |
 
 ---
 
