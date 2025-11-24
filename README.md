@@ -10,6 +10,7 @@ A collection of beginner and intermediate Python projects.
 | Calculator             | A really basic calculator                     |
 | Temp Converter         | Converts Celsius to Fahrenheit                |
 | Tip Calculator         | Figures out the total bill including tip      |
+| BMI Calculator         | Calculates BMI and outputs weight class       |
 ---
 
 ## ✅ **Goals of This Repository**
