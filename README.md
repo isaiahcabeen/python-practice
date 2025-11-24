@@ -9,7 +9,7 @@ A collection of beginner and intermediate Python projects.
 | Number Guessing Game   | A simple game where the user guesses a number |
 | Calculator             | A really basic calculator                     |
 | Temp Converter         | Converts Celsius to Fahrenheit                |
-
+| Tip Calculator         | Figures out the total bill including tip      |
 ---
 
 ## ✅ **Goals of This Repository**
